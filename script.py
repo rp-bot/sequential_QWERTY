@@ -1,4 +1,4 @@
-import re
+import string
 random_gib_shit = input("enter random shit: ")
 
 gib_split = list(random_gib_shit)
